@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://fomospend.xyz"><img alt="Website" src="https://img.shields.io/badge/website-fomospend.xyz-d9d9f7?style=flat-square&labelColor=000000"></a>
   <a href="https://fomospend.xyz/app"><img alt="Open the app" src="https://img.shields.io/badge/open-the%20app-ffffff?style=flat-square&labelColor=000000"></a>
-  <a href="https://x.com/FomoPayX402"><img alt="Follow on X" src="https://img.shields.io/badge/follow-%40FomoPayX402-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000"></a>
+  <a href="https://x.com/FomoSpendX402"><img alt="Follow on X" src="https://img.shields.io/badge/follow-%40FomoSpendX402-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000"></a>
   <br>
   <img alt="x402 v2" src="https://img.shields.io/badge/protocol-x402%20v2-5c50aa?style=flat-square&labelColor=000000">
   <img alt="USDC" src="https://img.shields.io/badge/asset-USDC-2775ca?style=flat-square&labelColor=000000">
@@ -26,7 +26,7 @@ Some sites and AI tools charge a few cents per use instead of a subscription: a 
 - **Bring any wallet, or none:** Phantom, Solflare, Backpack, MetaMask, Coinbase Wallet, Rabby. Or sign in with email or Google and a wallet is created for you.
 - **Agents too:** give an AI agent its own budget over MCP or the CLI. It can't raise its own limits.
 
-**Open the app:** https://fomospend.xyz/app · **Follow updates on X:** [@FomoPayX402](https://x.com/FomoPayX402)
+**Open the app:** https://fomospend.xyz/app · **Follow updates on X:** [@FomoSpendX402](https://x.com/FomoSpendX402)
 
 ## How a payment works
 
@@ -100,7 +100,7 @@ Fomo Spend never signs a payment that fails your limits, never signs token appro
 
 - Website: https://fomospend.xyz
 - App: https://fomospend.xyz/app
-- X: https://x.com/FomoPayX402
+- X: https://x.com/FomoSpendX402
 
 ---
 
