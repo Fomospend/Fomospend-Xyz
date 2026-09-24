@@ -101,6 +101,8 @@ Fomo Spend never signs a payment that fails your limits, never signs token appro
 - Website: https://fomospend.xyz
 - App: https://fomospend.xyz/app
 - X: https://x.com/FomoSpendX402
+- Terms of use: https://fomospend.xyz/terms
+- Privacy notice: https://fomospend.xyz/privacy
 
 ---
 
